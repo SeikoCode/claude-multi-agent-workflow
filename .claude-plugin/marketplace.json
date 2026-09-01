@@ -1,5 +1,8 @@
 {
   "name": "qa-workflow-kit",
+  "owner": {
+    "name": "SeikoCode"
+  },
   "plugins": [
     {
       "name": "qa-workflow-kit",
