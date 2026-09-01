@@ -1,0 +1,10 @@
+{
+  "name": "qa-workflow-kit",
+  "plugins": [
+    {
+      "name": "qa-workflow-kit",
+      "source": "./",
+      "description": "Code-quality helpers for the course-api Express API: route review, linting, and test-writing subagents wired into a QA workflow."
+    }
+  ]
+}
